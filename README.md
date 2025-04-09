@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 Sou formada em Análise e Desenvolvimento de Sistemas, mas atualmente trabalho na prefeitura na minha cidade.
 - 🌱 Sou iniciante no mundo da programação, e quanto mais aprendo, mais me apaixono!
-- 😄 Amo jogar video game e fazer artesanato em feltro
+- 😄 Amo jogar video game e ir ao cinema.
 
 ## Ferramentas e Tecnologias
 
@@ -42,12 +42,7 @@ Here are some ideas to get you started:
 
 <div>
 <a href="https://github.com/jaquelinejanussi">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaquelinejanussi&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=jaquelinejanussi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-
-
-<div>
- <div class="tenor-gif-embed" data-postid="14375202" data-share-method="host" data-aspect-ratio="1.78571" data-width="100%"><a href="https://tenor.com/view/typing-computer-searching-working-work-gif-14375202">Typing Computer GIF</a>from <a href="https://tenor.com/search/typing-gifs">Typing GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-</div>
