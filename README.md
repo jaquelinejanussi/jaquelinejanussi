@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 # Olá, me chamo Jaqueline ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-- 🔭 Sou formada em Análise e Desenvolvimento de Sistemas, mas atualmente trabalho na prefeitura na minha cidade.
-- 🌱 Sou iniciante no mundo da programação, e quanto mais aprendo, mais me apaixono!
+- 🔭 Sou formado em Análise e Desenvolvimento de Sistemas, mas atualmente trabalho na prefeitura na minha cidade.
+- 🌱  Sou iniciante no mundo da programação, e quanto mais aprendo, mais me apaixono!
 - 😄 Amo jogar video game e ir ao cinema.
 
 ## Ferramentas e Tecnologias
