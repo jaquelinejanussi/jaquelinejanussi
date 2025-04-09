@@ -47,3 +47,7 @@ Here are some ideas to get you started:
 </div>
 
 <div class="tenor-gif-embed" data-postid="14375202" data-share-method="host" data-aspect-ratio="1.78571" data-width="100%"><a href="https://tenor.com/view/typing-computer-searching-working-work-gif-14375202">Typing Computer GIF</a>from <a href="https://tenor.com/search/typing-gifs">Typing GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+<div>
+ <img src="https://tenor.com/pt-BR/view/gatinho-gato-gato-e-computador-computer-cat-gif-22185203">
+</div>
