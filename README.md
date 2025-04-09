@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **jaquelinejanussi/jaquelinejanussi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,13 +18,8 @@ Here are some ideas to get you started:
 ## Bem vindo ao meu perfil GitHub 👋
 
 - 🔭 Sou formada em Análise e Desenvolvimento de Sistemas, mas atualmente trabalho na prefeitura na minha cidade.
-- 🌱 Atualmente estou aprendendo Java
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🌱 Sou iniciante no mundo da programação, e quanto mais aprendo, mais me apaixono!
 - 😄 Amo jogar video game e fazer artesanato em feltro
-- ⚡ Fun fact: ...
 
 ## Ferramentas e Tecnologias
 
